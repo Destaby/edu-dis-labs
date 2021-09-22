@@ -9,11 +9,11 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*студенти 3-го курсу, групи ІП-94* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**- [Сумський Павло](https://github.com/paulsumskoy) Telegram: @pavelsumskoy**
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**- [Рудик Микола](https://github.com/Destaby) Telegram: @destaby**
 
 
 **Керівник**
